@@ -28,8 +28,8 @@ Added fetures:
 - To see my edits set the Gamelist View Style as "Video"
 - Enjoy.
 
-*Useful resources*
-https://github.com/Aloshi/EmulationStation/blob/master/THEMES.md
-https://wiki.batocera.org/write_themes_for_emulationstation
+*Useful resources:*
+- https://github.com/Aloshi/EmulationStation/blob/master/THEMES.md
+- https://wiki.batocera.org/write_themes_for_emulationstation
 
 Please feel free to suggest or propose modifcations.

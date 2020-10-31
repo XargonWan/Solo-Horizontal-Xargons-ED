@@ -1,4 +1,4 @@
-# AlekFull-Solo-Horizontal-Xargons-ED
+# AlekFull Solo Horizontal - Xargon's Edition
 My edition of the default RG351P Emulationstation/EmuELEC theme.
 
 Added fetures:

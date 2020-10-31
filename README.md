@@ -6,7 +6,7 @@ Added fetures:
 *Gamelist style Video:*
 - Reduced game title size
 - Increased video size
-- Added game infos under the video: Name, Rating, Release date
+- Added game info under the video: Name, Rating, Release date
 
 *TODO:*
 - Add the clock

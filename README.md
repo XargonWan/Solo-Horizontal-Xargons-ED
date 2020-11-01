@@ -3,6 +3,9 @@ My edition of the default RG351P Emulationstation/EmuELEC theme.
 
 Added fetures:
 
+*General*
+- Fixed hack roms folder names
+
 *Gamelist style Video:*
 - Reduced game title size
 - Increased video size

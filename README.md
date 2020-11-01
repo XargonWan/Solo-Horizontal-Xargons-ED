@@ -5,6 +5,8 @@ Added fetures:
 
 *General*
 - Fixed hack roms folder names
+- Added game countr on System screen (thanks to /u/Avigrace)
+
 
 *Gamelist style Video:*
 - Reduced game title size

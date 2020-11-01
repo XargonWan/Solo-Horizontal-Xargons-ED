@@ -32,7 +32,7 @@ version         1.0
          <path>./_inc/images/background.png</path>
       </image>                     
       <text name="systemInfo">     
-         <pos>0.75 0.75</pos>
+         <pos>0.38 0.9</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>ffffff</color>
          <fontPath>./_inc/fonts/Cabin-Bold.ttf</fontPath>
